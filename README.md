@@ -17,3 +17,4 @@
 - [ ] Batcher's Odd-Even Sort
 - [ ] Smooth Sort
 - [ ] Tim Sort
+- [ ] Comb Sort
